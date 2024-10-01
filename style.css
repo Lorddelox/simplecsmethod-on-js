@@ -1,0 +1,36 @@
+input {
+    width: 45px; /* Ширина для всех инпутов */
+}
+
+.calc__container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.calc__params-conainer {
+    width: 200px;
+
+}
+.calc__params-conainer{
+    width: 200px;
+}
+.calc__params {
+}
+.calc__restrictions-container {
+    display: flex;
+    flex-direction: column;
+}
+.calc__restrictions {
+}
+.calc__object-function-container {
+}
+.calc__object-function {
+}
+.object-function {
+}
+.rest-vars {
+}
+.solve {
+}
+.clear {
+}

@@ -34,3 +34,24 @@ input {
 }
 .clear {
 }
+.step {
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+.simplex-table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+}
+
+.simplex-table td {
+    border: 1px solid #ccc;
+    padding: 5px;
+    text-align: center;
+}
+
+.simplex-table th {
+    background-color: #f4f4f4;
+}
